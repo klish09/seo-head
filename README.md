@@ -1,6 +1,7 @@
 # seo-head
 Educational Site Seo Head Optimization
-I've made this head for a Educational Organitation Site-
+I've made this head for an Educational site-
+---Please---
 I'd like to know opinions to make it better
 I'd like to know if is something wrong.
 --------------
